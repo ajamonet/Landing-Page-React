@@ -26,7 +26,7 @@ const Footer = () => {
               }}
               className="space-y-6"
             >
-              <h1 className="text-3xl font-bold uppercase">Playing</h1>
+              <h1 className="text-3xl font-bold uppercase">Tech Stufff</h1>
               <p className=" text-sm max-w-[300px]">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum ea
                 ratione quidem libero, praesentium ab atque? Quidem maxime,
