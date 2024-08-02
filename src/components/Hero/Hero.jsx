@@ -44,7 +44,7 @@ const gadgetData = [
     subtitle:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae iusto minima ad ut id eos iusto minima ad ut id eos ad ut id eos",
     price: "$100",
-    modal: "Retro",
+    modal: "Retro Watch",
     bgColor: "#8b5958",
   },
   {
