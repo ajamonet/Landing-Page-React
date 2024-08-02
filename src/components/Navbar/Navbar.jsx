@@ -45,7 +45,7 @@ const Navbar = () => {
           <div>
             <a href="#" className="text-xl font-bold uppercase">
               Tech
-              <span className="font-extralight text-white/70">Gagets</span>
+              <span className="font-extralight text-white/70">Gadgets</span>
             </a>
           </div>
           {/* ______ Menu section ______ */}

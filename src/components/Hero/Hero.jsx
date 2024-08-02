@@ -36,7 +36,7 @@ const fadeUp = (delay) => {
   };
 };
 
-const gagetData = [
+const gadgetData = [
   {
     id: 1,
     image: Smartwatch,
@@ -69,7 +69,7 @@ const gagetData = [
   },
 ];
 const Hero = () => {
-  const [activeData, setActiveData] = React.useState(gagetData[0]);
+  const [activeData, setActiveData] = React.useState(gadgetData[0]);
 
   const handleActiveData = (data) => {
     setActiveData(data);
@@ -167,7 +167,7 @@ const Hero = () => {
                 transition={{ duration: 0.8, delay: 0.2, ease: "easeInOut" }}
                 className="grid grid-cols-3 gap-10"
               >
-                {gagetData.map((item) => {
+                {gadgetData.map((item) => {
                   return (
                     <UpdateFollower
                       mouseOptions={{
